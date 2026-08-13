@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Employee_Payroll_System/Employee_Payroll_System.vcxproj" Id="b99b133b-fad5-4d3c-9dbb-61ac89834dae" />
+</Solution>

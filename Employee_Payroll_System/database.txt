@@ -1,0 +1,9 @@
+1001 "Jalal Gahramanov" "CTIS" 1200 10 90
+1002 "Khayyam Gahramanli" "Stomatologiya" 10000 10 900
+1003 "Aysel Mammadova" "Finance" 2400 6 150
+1005 "Nigar Hasanli" "Marketing" 2100 8 200
+1006 "Tural Huseynov" "Information Technology" 3200 12 250
+1007 "Leyla Karimova" "Accounting" 2300 5 140
+1008 "Orkhan Abdullayev" "Sales" 1950 9 180
+1009 "Sabina Rahimova" "Management" 2800 7 220
+1010 "Elvin Ismayilov" "Cyber Security" 3500 15 300
